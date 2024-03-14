@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10px;
+  }
+  
+  .cubic-shape {
+    width: 658px;
+    height: 20px;
+    background-color:transparent;
+    position: relative;
+    overflow: hidden;
+    border: 1px solid whitesmoke;
+    border-radius: 5px;
+  }
+  

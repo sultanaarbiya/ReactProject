@@ -1,0 +1,19 @@
+form{
+    /* background-color: rgb(172, 235, 214); */
+    /* margin-right: 0.5rem;
+    margin-left: 0.5rem;
+    padding: 0.5rem;
+    display: flex;
+    justify-content: space-between;
+   align-items: center; */
+   margin:1rem;
+  }
+  form input{
+   
+    display: flex;
+    justify-content: space-between;
+    padding: 0.5rem;
+    border-radius: 5px;
+    margin-top: 5px;
+   
+  }
